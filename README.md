@@ -1,0 +1,2 @@
+# potencia
+Created with CodeSandbox
